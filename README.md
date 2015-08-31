@@ -19,6 +19,3 @@ Fork this repository and clone the fork onto your local machine. Make your chang
 
 
 
-
-
-* The points presented were compelling, both in content and delivery
